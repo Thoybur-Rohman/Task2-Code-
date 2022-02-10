@@ -1,8 +1,4 @@
-/*
- * SpongeBob.java
- *
- * Created on January 22, 2005, 9:08 AM
- */
+
 
 package program1;
 
